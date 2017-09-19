@@ -15,6 +15,3 @@ Go to `Builds` and click on `UFO Game builds1`.
 We learnt how to build a game with Unity2D since neither of us has experience with that before.
 We followed the tutorial and achieved everything required by this game.
 Next step, we are thinking about adding extra features to the game like setting up a timer, make a multiple players mode, etc.
-
-## What didn't work
-We went through the tutorial smoothly. Got stuck a few times attaching a script to the game object.
